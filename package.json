@@ -1,0 +1,19 @@
+{
+  "name": "atm-machine-project",
+  "version": "1.0.0",
+  "description": "This ATM machine i have made this project by  using typescript node js and inqurier",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
